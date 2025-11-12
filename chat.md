@@ -68,3 +68,5 @@ The project evolution:
 - Project having a more clear usage of AI
 - Knowing the pitch deck is not detailed enough on how our application being innovative and unique towards other appplication on the market now
 - Providing other development directions from the response of AI, inclduing develop the app that could operate on wearables like Smart Watch 
+
+The Hosted Landing Page of our Website/Application: https://htmlpreview.github.io/?https://github.com/DeathShura/MoodLab/blob/main/Html_MoodLab.html
